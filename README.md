@@ -38,6 +38,7 @@
 - **[Sendinblue](https://www.sendinblue.com/)** - An all-in-one email marketing platform with CRM and SMS capabilities.
 - **[Klaviyo](https://www.klaviyo.com/)** - A platform for e-commerce email marketing with advanced segmentation.
 - **[Constant Contact](https://www.constantcontact.com/)** - A user-friendly platform for small businesses.
+- **[Poptin MCP](https://developers.poptin.com/docs/mcp)** - Connect a Poptin account to a compatible AI assistant to draft email campaigns, analyze performance, and build audience segments.
 
 ## Email Design Tools
 
